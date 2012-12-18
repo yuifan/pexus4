@@ -7,7 +7,7 @@
     <default revision="psy"
        remote="origin" />
 
-    <project path="Test_Repository" name="yuifan/Test_Repository" />
+    <project path="test/psy" name="yuifan/Test_Repository" />
 
 </manifest> 
         
