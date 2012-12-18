@@ -7,7 +7,7 @@
     <default revision="psy"
        remote="origin" />
 
-    <project path="test/CarClass" name="TestRepository/CarClass" />
+    <project path="test/CarClass" name="Test_Repository/CarClass" />
 
 </manifest> 
         
