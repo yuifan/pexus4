@@ -4,10 +4,10 @@
         fetch=".."
         review="git://github.com/" />
 
-    <default revision="psy"
+    <default revision="PeXuSMain"
        remote="origin" />
 
-    <project path="test/psy" name="yuifan/Test_Repository" />
+    <project path="Source/PeXuS" name="yuifan/PeXuS" />
 
 </manifest> 
         
