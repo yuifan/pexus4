@@ -4,7 +4,7 @@
         fetch=".."
         review="git://github.com/" />
 
-    <default revision="PeXuS_Main_Repository"
+    <default revision="psy"
        remote="origin" />
 
     <project path="Test_Repository" name="yuifan/Test_Repository" />
