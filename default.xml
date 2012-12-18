@@ -7,7 +7,7 @@
     <default revision="PeXuS_Main_Repository"
        remote="origin" />
 
-    <project path="test/CarClass" name="Test_Repository/CarClass" />
+    <project path="CarClass" name="Test_Repository/CarClass" />
 
 </manifest> 
         
