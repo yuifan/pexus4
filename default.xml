@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name=origin"
+        fetch=".."
+        review="git://github.com/" />
+
+    <default revision="psy"
+       remote="origin" />
+
+    <project path="test/CarClass" name="TestRepository/CarClass" />
+
+</manifest> 
+        
