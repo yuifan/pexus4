@@ -7,7 +7,7 @@
     <default revision="PeXuSMain"
        remote="origin" />
 
-    <project path="./Pexus" name="yuifan/PeXuS" />
+    <project path="Pexus" name="yuifan/PeXuS" />
 
 </manifest> 
         
