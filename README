@@ -1,5 +1,5 @@
 Initializing repo client.
 
-$ repo init -u http://github.com/yuifan/PeXuS_Repository -b PeXuS_Main_Repository
+$ repo init -u http://github.com/yuifan/pexus -b pexus_kt
 
 $ repo sync
