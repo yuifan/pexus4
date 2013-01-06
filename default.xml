@@ -170,7 +170,48 @@
     <project path="packages/wallpapers/LivePicker" name="yuifan/pexus_packages_wallpapers_LivePicker" />
     <project path="packages/wallpapers/MagicSmoke" name="yuifan/pexus_packages_wallpapers_MagicSmoke" />
     <project path="packages/wallpapers/MusicVisualization" name="yuifan/pexus_packages_wallpapers_MusicVisualization" />
+    <!--<project path="prebuilt" name="yuifan/pexus_prebuilt" /> -->
     <project path="prebuilt" name="yuifan/pexus_prebuilt" />
+    <project path="prebuilt/android-arm" name="yuifan/pexus_prebuilt_android-arm" />
+    <project path="prebuilt/android-sh" name="yuifan/pexus_prebuilt_android-sh" />
+    <project path="prebuilt/android-x86" name="yuifan/pexus_prebuilt_android-x86" />
+    <project path="prebuilt/common" name="yuifan/pexus_prebuilt_common" />
+    
+    <project path="prebuilt/darwin-x86/bcc" name="yuifan/pexus_prebuilt_darwin-x86_bcc" />
+    <project path="prebuilt/darwin-x86/ccache" name="yuifan/pexus_prebuilt_darwin-x86_ccache" />
+    <project path="prebuilt/darwin-x86/flex" name="yuifan/pexus_prebuilt_darwin-x86_flex" />
+    <project path="prebuilt/darwin-x86/jetcreator" name="yuifan/pexus_prebuilt_darwin-x86_jetcreator" />
+    <project path="prebuilt/darwin-x86/make" name="yuifan/pexus_prebuilt_darwin-x86_make" />
+    <project path="prebuilt/darwin-x86/sdl" name="yuifan/pexus_prebuilt_darwin-x86_sdl" />
+    <project path="prebuilt/darwin-x86/swt" name="yuifan/pexus_prebuilt_darwin-x86_swt" />
+    <project path="prebuilt/darwin-x86/toolchain/arm-eabi-4.2.1" name="yuifan/pexus_prebuilt_darwin-x86_toolchain_arm-eabi-4.2.1" />
+    <project path="prebuilt/darwin-x86/toolchain/arm-eabi-4.3.1" name="yuifan/pexus_prebuilt_darwin-x86_toolchain_arm-eabi-4.3.1" />
+    <project path="prebuilt/darwin-x86/toolchain/arm-eabi-4.4.0" name="yuifan/pexus_prebuilt_darwin-x86_toolchain_arm-eabi-4.4.0" />
+    <project path="prebuilt/darwin-x86/toolchain/arm-eabi-4.4.3" name="yuifan/pexus_prebuilt_darwin-x86_toolchain_arm-eabi-4.4.3" />
+    <project path="prebuilt/darwin-x86_64" name="yuifan/pexus_prebuilt_darwin-x86_64" />
+    
+    <project path="prebuilt/linux-x86/bcc" name="yuifan/pexus_prebuilt_linux-x86_bcc" />
+    <project path="prebuilt/linux-x86/ccache" name="yuifan/pexus_prebuilt_linux-x86_ccache" />
+    <project path="prebuilt/linux-x86/emulator" name="yuifan/pexus_prebuilt_linux-x86_emulator" />
+    <project path="prebuilt/linux-x86/flex" name="yuifan/pexus_prebuilt_linux-x86_flex" />
+    <project path="prebuilt/linux-x86/icu-4.2" name="yuifan/pexus_prebuilt_linux-x86_icu-4.2" />
+    <project path="prebuilt/linux-x86/oprofile" name="yuifan/pexus_prebuilt_linux-x86_oprofile" />
+    <project path="prebuilt/linux-x86/sdl" name="yuifan/pexus_prebuilt_linux-x86_sdl" />
+    <project path="prebuilt/linux-x86/swt" name="yuifan/pexus_prebuilt_linux-x86_swt" />
+    <project path="prebuilt/linux-x86/toolchain/arm-eabi-4.2.1" name="yuifan/pexus_prebuilt_linux-x86_toolchain_arm-eabi-4.2.1" />
+    <project path="prebuilt/linux-x86/toolchain/arm-eabi-4.3.1" name="yuifan/pexus_prebuilt_linux-x86_toolchain_arm-eabi-4.3.1" />
+    <project path="prebuilt/linux-x86/toolchain/arm-eabi-4.4.0" name="yuifan/pexus_prebuilt_linux-x86_toolchain_arm-eabi-4.4.0" />
+    <project path="prebuilt/linux-x86/toolchain/arm-eabi-4.4.3" name="yuifan/pexus_prebuilt_linux-x86_toolchain_arm-eabi-4.4.3" />
+    <project path="prebuilt/darwin-x86/toolchain/i686-linux-glibc2.7-4.4.3" name="yuifan/pexus_prebuilt_darwin-x86_toolchain_i686-linux-glibc2.7-4.4.3" />
+    <project path="prebuilt/darwin-x86/toolchain/i686-unknown-linux-gnu-4.2.1" name="yuifan/pexus_prebuilt_darwin-x86_toolchain_i686-unknown-linux-gnu-4.2.1" />
+    <project path="prebuilt/darwin-x86/toolchain/sh-4.3.3" name="yuifan/pexus_prebuilt_darwin-x86_toolchain_sh-4.3.3" />
+    <project path="prebuilt/linux-x86_64" name="yuifan/pexus_prebuilt_linux-x86_64" />
+    
+    <project path="prebuilt/ndk" name="yuifan/pexus_prebuilt_ndk" />
+    <project path="prebuilt/sdk" name="yuifan/pexus_prebuilt_sdk" />
+    <project path="prebuilt/windows" name="yuifan/pexus_prebuilt_windows" />
+    <project path="prebuilt/windows-x86_64" name="yuifan/pexus_prebuilt_windows-x86_64" />
+    
     <project path="sdk" name="yuifan/pexus_sdk" />
     <project path="system/bluetooth" name="yuifan/pexus_system_bluetooth" />
     <project path="system/core" name="yuifan/pexus_system_core" />
