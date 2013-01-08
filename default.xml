@@ -7,10 +7,10 @@
     <default revision="pexus_kt"
        remote="origin" />
 
-    <project path="build" name="yuifan/pexus_pexus_build">
+    <project path="build" name="yuifan/pexus_build">
         <copyfile src="core/root.mk" dest="Makefile" />
     </project>
-    <project path="bionic" name="yuifan/pexus_pexus_bionic" />
+    <project path="bionic" name="yuifan/pexus_bionic" />
     <project path="bootable/bootloader/legacy" name="yuifan/pexus_bootable_bootloader_legacy" />
     <project path="bootable/diskinstaller" name="yuifan/pexus_bootable_diskinstaller" />
     <project path="bootable/recovery" name="yuifan/pexus_bootable_recovery" />
