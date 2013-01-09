@@ -202,9 +202,9 @@
     <project path="prebuilt/linux-x86/toolchain/arm-eabi-4.3.1" name="yuifan/pexus_prebuilt_linux-x86_toolchain_arm-eabi-4.3.1" />
     <project path="prebuilt/linux-x86/toolchain/arm-eabi-4.4.0" name="yuifan/pexus_prebuilt_linux-x86_toolchain_arm-eabi-4.4.0" />
     <project path="prebuilt/linux-x86/toolchain/arm-eabi-4.4.3" name="yuifan/pexus_prebuilt_linux-x86_toolchain_arm-eabi-4.4.3" />
-    <project path="prebuilt/darwin-x86/toolchain/i686-linux-glibc2.7-4.4.3" name="yuifan/pexus_prebuilt_darwin-x86_toolchain_i686-linux-glibc2.7-4.4.3" />
-    <project path="prebuilt/darwin-x86/toolchain/i686-unknown-linux-gnu-4.2.1" name="yuifan/pexus_prebuilt_darwin-x86_toolchain_i686-unknown-linux-gnu-4.2.1" />
-    <project path="prebuilt/darwin-x86/toolchain/sh-4.3.3" name="yuifan/pexus_prebuilt_darwin-x86_toolchain_sh-4.3.3" />
+    <project path="prebuilt/linux-x86/toolchain/i686-linux-glibc2.7-4.4.3" name="yuifan/pexus_prebuilt_linux-x86_toolchain_i686-linux-glibc2.7-4.4.3" />
+    <project path="prebuilt/linux-x86/toolchain/i686-unknown-linux-gnu-4.2.1" name="yuifan/pexus_prebuilt_linux-x86_toolchain_i686-unknown-linux-gnu-4.2.1" />
+    <project path="prebuilt/linux-x86/toolchain/sh-4.3.3" name="yuifan/pexus_prebuilt_linux-x86_toolchain_sh-4.3.3" />
     <project path="prebuilt/linux-x86_64" name="yuifan/pexus_prebuilt_linux-x86_64" />
     
     <project path="prebuilt/ndk" name="yuifan/pexus_prebuilt_ndk" />
