@@ -121,6 +121,7 @@
     <project path="hardware/ril" name="yuifan/pexus_hardware_ril" />
     <project path="hardware/ti/omap3" name="yuifan/pexus_hardware_ti_omap3" />
     <project path="hardware/ti/wlan" name="yuifan/pexus_hardware_ti_wlan" />
+    <project path="kernel" name="yuifan/pexus_kernel" />
     <project path="libcore" name="yuifan/pexus_libcore" />
     <project path="ndk" name="yuifan/pexus_ndk" />
     <project path="packages/apps/AccountsAndSyncSettings" name="yuifan/pexus_packages_apps_AccountsAndSyncSettings" />
