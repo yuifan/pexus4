@@ -222,5 +222,4 @@
     <project path="system/vold" name="yuifan/pexus_system_vold" />
     <project path="system/wlan/ti" name="yuifan/pexus_system_wlan_ti" />
     <project path="vendor/htc" name="yuifan/pexus_vendor_htc" />
-    <project path="vendor/google" name="yuifan/pexus_vendor_google" />
 </manifest> 
