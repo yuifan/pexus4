@@ -364,4 +364,7 @@
     <project path="tools/motodev" name="yuifan/pexus4_tools_motodev" />
     <project path="tools/swt" name="yuifan/pexus4_tools_swt" /> -->
     <project path="tools/external/fat32lib" name="yuifan/pexus4_tools_external_fat32lib" />
+    <project path="vendor/qcom" name="yuifan/pexus4_vendor_qcom" />
+    <project path="vendor/lge" name="yuifan/pexus4_vendor_lge" />
+    <project path="vendor/broadcom" name="yuifan/pexus4_vendor_broadcom" />
 </manifest> 
