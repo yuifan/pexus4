@@ -360,8 +360,8 @@
     <project path="tools/base" name="yuifan/pexus4_tools_base" />
     <project path="tools/build" name="yuifan/pexus4_tools_build" />
     <project path="tools/emulator" name="yuifan/pexus4_tools_emulator" />
+    <project path="tools/external/gradle" name="yuifan/pexus4_tools_external_gradle" />
     <project path="tools/motodev" name="yuifan/pexus4_tools_motodev" />
     <project path="tools/swt" name="yuifan/pexus4_tools_swt" /> -->
     <project path="tools/external/fat32lib" name="yuifan/pexus4_tools_external_fat32lib" />
-    <project path="tools/external/gradle" name="yuifan/pexus4_tools_external_gradle" />
 </manifest> 
