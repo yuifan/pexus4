@@ -329,7 +329,7 @@
 	<project path="prebuilts/gcc/darwin-x86/host/headers" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_host_headers" />
 	<project path="prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_host_i686-apple-darwin-4.2.1" />
 	<project path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_mips_mipsel-linux-android-4.6" />
-	<project path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7" name="yuifan/pexus4_prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7" />
+	<project path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_mips_mipsel-linux-android-4.7" />
 	<project path="prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_x86_i686-linux-android-4.6" />
 	<project path="prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_x86_i686-linux-android-4.7" />
 	<project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" name="yuifan/pexus4_prebuilts_gcc_linux-x86_arm_arm-eabi-4.6" />
