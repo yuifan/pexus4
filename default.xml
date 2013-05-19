@@ -10,7 +10,7 @@
     <project path="build" name="yuifan/pexus4_build">
         <copyfile src="core/root.mk" dest="Makefile" />
     </project>
-	<project path="abi/cpp" name="yuifan/pexus4_abi_cpp" />
+    <project path="abi/cpp" name="yuifan/pexus4_abi_cpp" />
     <project path="bionic" name="yuifan/pexus4_bionic" />
     <project path="bootable/bootloader/legacy" name="yuifan/pexus4_bootable_bootloader_legacy" />
     <project path="bootable/diskinstaller" name="yuifan/pexus4_bootable_diskinstaller" />
@@ -18,38 +18,38 @@
     <project path="cts" name="yuifan/pexus4_cts" />
     <project path="dalvik" name="yuifan/pexus4_dalvik" />
     <project path="development" name="yuifan/pexus4_development" />
-	<project path="device/asus/grouper" name="yuifan/pexus4_device_asus_grouper" />
+    <project path="device/asus/grouper" name="yuifan/pexus4_device_asus_grouper" />
     <project path="device/asus/tilapia" name="yuifan/pexus4_device_asus_tilapia" />
-	<project path="device/common" name="yuifan/pexus4_device_common" />
-	<project path="device/generic/armv7-a-neon" name="yuifan/pexus4_device_generic_armv7-a-neon" />
-	<project path="device/generic/armv7-a" name="yuifan/pexus4_device_generic_armv7-a" />
-	<project path="device/generic/common" name="yuifan/pexus4_device_generic_common" />
-	<project path="device/generic/goldfish" name="yuifan/pexus4_device_generic_goldfish" />
-	<project path="device/generic/mips" name="yuifan/pexus4_device_generic_mips" />
-	<project path="device/generic/x86" name="yuifan/pexus4_device_generic_x86" />
+    <project path="device/common" name="yuifan/pexus4_device_common" />
+    <project path="device/generic/armv7-a-neon" name="yuifan/pexus4_device_generic_armv7-a-neon" />
+    <project path="device/generic/armv7-a" name="yuifan/pexus4_device_generic_armv7-a" />
+    <project path="device/generic/common" name="yuifan/pexus4_device_generic_common" />
+    <project path="device/generic/goldfish" name="yuifan/pexus4_device_generic_goldfish" />
+    <project path="device/generic/mips" name="yuifan/pexus4_device_generic_mips" />
+    <project path="device/generic/x86" name="yuifan/pexus4_device_generic_x86" />
     <project path="device/google/accessory/arduino" name="yuifan/pexus4_device_google_accessory_arduino" />
     <project path="device/google/accessory/demokit" name="yuifan/pexus4_device_google_accessory_demokit" />
-	<project path="device/lge/mako" name="yuifan/pexus4_device_lge_mako" />
-	<project path="device/lge/mako-kernel" name="yuifan/pexus4_device_lge_mako-kernel" />
-	<project path="device/sample" name="yuifan/pexus4_device_sample" />
-	<project path="device/samsung/maguro" name="yuifan/pexus4_device_samsung_maguro" />
-	<project path="device/samsung/manta" name="yuifan/pexus4_device_samsung_manta" />
-	<project path="device/samsung/toro" name="yuifan/pexus4_device_samsung_toro" />
-	<project path="device/samsung/toroplus" name="yuifan/pexus4_device_samsung_toroplus" />
-	<project path="device/samsung/tuna" name="yuifan/pexus4_device_samsung_tuna" />
-	<project path="device/samsung_slsi/arndale" name="yuifan/pexus4_device_samsung_slsi_arndale" />
-	<project path="device/ti/panda" name="yuifan/pexus4_device_ti_panda" />
-	<project path="docs/source.android.com" name="yuifan/pexus4_platform_docs_source.android.com" />
-	<project path="external/aac" name="yuifan/pexus4_external_aac" />
-	<project path="external/android-clat" name="yuifan/pexus4_external_android-clat" />
-	<project path="external/android-mock" name="yuifan/pexus4_external_android-mock" />
-	<project path="external/ant-glob" name="yuifan/pexus4_external_ant-glob" />
-	<project path="external/antlr" name="yuifan/pexus4_external_antlr" />
-	<project path="external/apache-harmony" name="yuifan/pexus4_external_apache-harmony" />
+    <project path="device/lge/mako" name="yuifan/pexus4_device_lge_mako" />
+    <project path="device/lge/mako-kernel" name="yuifan/pexus4_device_lge_mako-kernel" />
+    <project path="device/sample" name="yuifan/pexus4_device_sample" />
+    <project path="device/samsung/maguro" name="yuifan/pexus4_device_samsung_maguro" />
+    <project path="device/samsung/manta" name="yuifan/pexus4_device_samsung_manta" />
+    <project path="device/samsung/toro" name="yuifan/pexus4_device_samsung_toro" />
+    <project path="device/samsung/toroplus" name="yuifan/pexus4_device_samsung_toroplus" />
+    <project path="device/samsung/tuna" name="yuifan/pexus4_device_samsung_tuna" />
+    <project path="device/samsung_slsi/arndale" name="yuifan/pexus4_device_samsung_slsi_arndale" />
+    <project path="device/ti/panda" name="yuifan/pexus4_device_ti_panda" />
+    <project path="docs/source.android.com" name="yuifan/pexus4_platform_docs_source.android.com" />
+    <project path="external/aac" name="yuifan/pexus4_external_aac" />
+    <project path="external/android-clat" name="yuifan/pexus4_external_android-clat" />
+    <project path="external/android-mock" name="yuifan/pexus4_external_android-mock" />
+    <project path="external/ant-glob" name="yuifan/pexus4_external_ant-glob" />
+    <project path="external/antlr" name="yuifan/pexus4_external_antlr" />
+    <project path="external/apache-harmony" name="yuifan/pexus4_external_apache-harmony" />
     <project path="external/apache-http" name="yuifan/pexus4_external_apache-http" />
-	<project path="external/apache-qp" name="yuifan/pexus4_external_apache-qp" />
-	<project path="external/apache-xml" name="yuifan/pexus4_external_apache-xml" />
-	<project path="external/arduino" name="yuifan/pexus4_external_arduino" />
+    <project path="external/apache-qp" name="yuifan/pexus4_external_apache-qp" />
+    <project path="external/apache-xml" name="yuifan/pexus4_external_apache-xml" />
+    <project path="external/arduino" name="yuifan/pexus4_external_arduino" />
     <project path="external/astl" name="yuifan/pexus4_external_astl" />
     <project path="external/bison" name="yuifan/pexus4_external_bison" />
     <project path="external/blktrace" name="yuifan/pexus4_external_blktrace" />
@@ -57,199 +57,201 @@
     <project path="external/bouncycastle" name="yuifan/pexus4_external_bouncycastle" />
     <project path="external/bsdiff" name="yuifan/pexus4_external_bsdiff" />
     <project path="external/bzip2" name="yuifan/pexus4_external_bzip2" />
-	<project path="external/checkpolicy" name="yuifan/pexus4_external_checkpolicy" />
+    <project path="external/checkpolicy" name="yuifan/pexus4_external_checkpolicy" />
     <project path="external/chromium" name="yuifan/pexus4_external_chromium" />
-	<project path="external/chromium-trace" name="yuifan/pexus4_external_chromium-trace" />
-	<project path="external/cibu-fonts" name="yuifan/pexus4_external_cibu-fonts" />
-	<project path="external/clang" name="yuifan/pexus4_external_clang" />
-	<project path="external/compiler-rt" name="yuifan/pexus4_external_compiler-rt" />
+    <project path="external/chromium-trace" name="yuifan/pexus4_external_chromium-trace" />
+    <project path="external/cibu-fonts" name="yuifan/pexus4_external_cibu-fonts" />
+    <project path="external/clang" name="yuifan/pexus4_external_clang" />
+    <project path="external/compiler-rt" name="yuifan/pexus4_external_compiler-rt" />
     <project path="external/dbus" name="yuifan/pexus4_external_dbus" />
-	<project path="external/dexmaker" name="yuifan/pexus4_external_dexmaker" />
+    <project path="external/dexmaker" name="yuifan/pexus4_external_dexmaker" />
     <project path="external/dhcpcd" name="yuifan/pexus4_external_dhcpcd" />
     <project path="external/dnsmasq" name="yuifan/pexus4_external_dnsmasq" />
-	<project path="external/doclava" name="yuifan/pexus4_external_doclava" />
+    <project path="external/doclava" name="yuifan/pexus4_external_doclava" />
     <project path="external/dropbear" name="yuifan/pexus4_external_dropbear" />
     <project path="external/e2fsprogs" name="yuifan/pexus4_external_e2fsprogs" />
     <project path="external/easymock" name="yuifan/pexus4_external_easymock" />
-	<project path="external/eclipse-basebuilder" name="yuifan/pexus4_external_eclipse-basebuilder" />
-	<project path="external/eclipse-windowbuilder" name="yuifan/pexus4_external_eclipse-windowbuilder" />
-	<project path="external/eigen" name="yuifan/pexus4_external_eigen" />
+    <project path="external/eclipse-basebuilder" name="yuifan/pexus4_external_eclipse-basebuilder" />
+    <project path="external/eclipse-windowbuilder" name="yuifan/pexus4_external_eclipse-windowbuilder" />
+    <project path="external/eigen" name="yuifan/pexus4_external_eigen" />
     <project path="external/elfutils" name="yuifan/pexus4_external_elfutils" />
     <project path="external/embunit" name="yuifan/pexus4_external_embunit" />
     <project path="external/emma" name="yuifan/pexus4_external_emma" />
     <project path="external/esd" name="yuifan/pexus4_external_esd" />
     <project path="external/expat" name="yuifan/pexus4_external_expat" />
-	<project path="external/eyes-free" name="yuifan/pexus4_external_eyes-free" />
+    <project path="external/eyes-free" name="yuifan/pexus4_external_eyes-free" />
     <project path="external/fdlibm" name="yuifan/pexus4_external_fdlibm" />
-	<project path="external/flac" name="yuifan/pexus4_external_flac" />
+    <project path="external/flac" name="yuifan/pexus4_external_flac" />
     <project path="external/freetype" name="yuifan/pexus4_external_freetype" />
     <project path="external/fsck_msdos" name="yuifan/pexus4_external_fsck_msdos" />
-	<project path="external/ganymed-ssh2" name="yuifan/pexus4_external_ganymed-ssh2" />
-	<project path="external/gcc-demangle" name="yuifan/pexus4_external_gcc-demangle" />
+    <project path="external/ganymed-ssh2" name="yuifan/pexus4_external_ganymed-ssh2" />
+    <project path="external/gcc-demangle" name="yuifan/pexus4_external_gcc-demangle" />
     <project path="external/genext2fs" name="yuifan/pexus4_external_genext2fs" />
     <project path="external/giflib" name="yuifan/pexus4_external_giflib" />
-	<project path="external/google-diff-match-patch" name="yuifan/pexus4_external_google-diff-match-patch" />
+    <project path="external/google-diff-match-patch" name="yuifan/pexus4_external_google-diff-match-patch" />
     <project path="external/grub" name="yuifan/pexus4_external_grub" />
     <project path="external/gtest" name="yuifan/pexus4_external_gtest" />
     <project path="external/guava" name="yuifan/pexus4_external_guava" />
-	<project path="external/hamcrest" name="yuifan/pexus4_external_hamcrest" />
-	<project path="external/harfbuzz" name="yuifan/pexus4_external_harfbuzz" />
-	<project path="external/harfbuzz_ng" name="yuifan/pexus4_external_harfbuzz_ng" />
-	<project path="external/hyphenation" name="yuifan/pexus4_external_hyphenation" />
+    <project path="external/hamcrest" name="yuifan/pexus4_external_hamcrest" />
+    <project path="external/harfbuzz" name="yuifan/pexus4_external_harfbuzz" />
+    <project path="external/harfbuzz_ng" name="yuifan/pexus4_external_harfbuzz_ng" />
+    <project path="external/hyphenation" name="yuifan/pexus4_external_hyphenation" />
     <project path="external/icu4c" name="yuifan/pexus4_external_icu4c" />
     <project path="external/iproute2" name="yuifan/pexus4_external_iproute2" />
     <project path="external/ipsec-tools" name="yuifan/pexus4_external_ipsec-tools" />
     <project path="external/iptables" name="yuifan/pexus4_external_iptables" />
-	<project path="external/jack" name="yuifan/pexus4_external_jack" />
-	<project path="external/javasqlite" name="yuifan/pexus4_external_javasqlite" />
-	<project path="external/javassist" name="yuifan/pexus4_external_javassist" />
+    <project path="external/jack" name="yuifan/pexus4_external_jack" />
+    <project path="external/javasqlite" name="yuifan/pexus4_external_javasqlite" />
+    <project path="external/javassist" name="yuifan/pexus4_external_javassist" />
     <project path="external/jdiff" name="yuifan/pexus4_external_jdiff" />
     <project path="external/jhead" name="yuifan/pexus4_external_jhead" />
-	<project path="external/jmdns" name="yuifan/pexus4_external_jmdns" />
-	<project path="external/jmonkeyengine" name="yuifan/pexus4_external_jmonkeyengine" />
+    <project path="external/jmdns" name="yuifan/pexus4_external_jmdns" />
+    <project path="external/jmonkeyengine" name="yuifan/pexus4_external_jmonkeyengine" />
     <project path="external/jpeg" name="yuifan/pexus4_external_jpeg" />
-	<project path="external/jsilver" name="yuifan/pexus4_external_jsilver" />
+    <project path="external/jsilver" name="yuifan/pexus4_external_jsilver" />
     <project path="external/jsr305" name="yuifan/pexus4_external_jsr305" />
     <project path="external/junit" name="yuifan/pexus4_external_junit" />
     <project path="external/kernel-headers" name="yuifan/pexus4_external_kernel-headers" />
-	<project path="external/libcap-ng" name="yuifan/pexus4_external_libcap-ng" />
+    <project path="external/libcap-ng" name="yuifan/pexus4_external_libcap-ng" />
     <project path="external/libffi" name="yuifan/pexus4_external_libffi" />
     <project path="external/libgsm" name="yuifan/pexus4_external_libgsm" />
-	<project path="external/liblzf" name="yuifan/pexus4_external_liblzf" />
-	<project path="external/libmtp" name="yuifan/pexus4_external_libmtp" />
-	<project path="external/libnfc-nci" name="yuifan/pexus4_external_libnfc-nci" />
+    <project path="external/liblzf" name="yuifan/pexus4_external_liblzf" />
+    <project path="external/libmtp" name="yuifan/pexus4_external_libmtp" />
+    <project path="external/libnfc-nci" name="yuifan/pexus4_external_libnfc-nci" />
     <project path="external/libnfc-nxp" name="yuifan/pexus4_external_libnfc-nxp" />
-	<project path="external/libnl-headers" name="yuifan/pexus4_external_libnl-headers" />
-	<project path="external/libogg" name="yuifan/pexus4_external_libogg" />
+    <project path="external/libnl-headers" name="yuifan/pexus4_external_libnl-headers" />
+    <project path="external/libogg" name="yuifan/pexus4_external_libogg" />
     <project path="external/libpcap" name="yuifan/pexus4_external_libpcap" />
-	<project path="external/libphonenumber" name="yuifan/pexus4_external_libphonenumber" />
+    <project path="external/libphonenumber" name="yuifan/pexus4_external_libphonenumber" />
     <project path="external/libpng" name="yuifan/pexus4_external_libpng" />
-	<project path="external/libppp" name="yuifan/pexus4_external_libppp" />
-	<project path="external/libselinux" name="yuifan/pexus4_external_libselinux" />
-	<project path="external/libsepol" name="yuifan/pexus4_external_libsepol" />
-	<project path="external/libusb" name="yuifan/pexus4_external_libusb" />
-	<project path="external/libusb_aah" name="yuifan/pexus4_external_libusb_aah" />
-	<project path="external/libusb-compat" name="yuifan/pexus4_external_libusb-compat" />
-	<project path="external/libvorbis" name="yuifan/pexus4_external_libvorbis" />
+    <project path="external/libppp" name="yuifan/pexus4_external_libppp" />
+    <project path="external/libselinux" name="yuifan/pexus4_external_libselinux" />
+    <project path="external/libsepol" name="yuifan/pexus4_external_libsepol" />
+    <project path="external/libusb" name="yuifan/pexus4_external_libusb" />
+    <project path="external/libusb_aah" name="yuifan/pexus4_external_libusb_aah" />
+    <project path="external/libusb-compat" name="yuifan/pexus4_external_libusb-compat" />
+    <project path="external/libvorbis" name="yuifan/pexus4_external_libvorbis" />
     <project path="external/libvpx" name="yuifan/pexus4_external_libvpx" />
     <project path="external/libxml2" name="yuifan/pexus4_external_libxml2" />
-	<project path="external/libxslt" name="yuifan/pexus4_external_libxslt" />
-	<project path="external/libyuv" name="yuifan/pexus4_external_libyuv" />
-	<project path="external/linux-tools-perf" name="yuifan/pexus4_external_linux-tools-perf" />
-	<project path="external/littlemock" name="yuifan/pexus4_external_littlemock" />
-	<project path="external/llvm" name="yuifan/pexus4_external_llvm" />
-	<project path="external/lohit-fonts" name="yuifan/pexus4_external_lohit-fonts" />
-	<project path="external/markdown" name="yuifan/pexus4_external_markdown" />
-	<project path="external/mdnsresponder" name="yuifan/pexus4_external_mdnsresponder" />
-	<project path="external/mesa3d" name="yuifan/pexus4_external_mesa3d" />
-	<project path="external/mksh" name="yuifan/pexus4_external_mksh" />
-	<project path="external/mockito" name="yuifan/pexus4_external_mockito" />
-	<project path="external/mockwebserver" name="yuifan/pexus4_external_mockwebserver" />
-	<project path="external/mp4parser" name="yuifan/pexus4_external_mp4parser" />
+    <project path="external/libxslt" name="yuifan/pexus4_external_libxslt" />
+    <project path="external/libyuv" name="yuifan/pexus4_external_libyuv" />
+    <project path="external/linux-tools-perf" name="yuifan/pexus4_external_linux-tools-perf" />
+    <project path="external/littlemock" name="yuifan/pexus4_external_littlemock" />
+    <project path="external/llvm" name="yuifan/pexus4_external_llvm" />
+    <project path="external/lohit-fonts" name="yuifan/pexus4_external_lohit-fonts" />
+    <project path="external/markdown" name="yuifan/pexus4_external_markdown" />
+    <project path="external/mdnsresponder" name="yuifan/pexus4_external_mdnsresponder" />
+    <project path="external/mesa3d" name="yuifan/pexus4_external_mesa3d" />
+    <project path="external/mksh" name="yuifan/pexus4_external_mksh" />
+    <project path="external/mockito" name="yuifan/pexus4_external_mockito" />
+    <project path="external/mockwebserver" name="yuifan/pexus4_external_mockwebserver" />
+    <project path="external/mp4parser" name="yuifan/pexus4_external_mp4parser" />
     <project path="external/mtpd" name="yuifan/pexus4_external_mtpd" />
-	<project path="external/naver-fonts" name="yuifan/pexus4_external_naver-fonts" />
+    <project path="external/naver-fonts" name="yuifan/pexus4_external_naver-fonts" />
     <project path="external/netcat" name="yuifan/pexus4_external_netcat" />
     <project path="external/netperf" name="yuifan/pexus4_external_netperf" />
     <project path="external/neven" name="yuifan/pexus4_external_neven" />
     <project path="external/nist-sip" name="yuifan/pexus4_external_nist-sip" />
+    <project path="external/nist-pkits" name="yuifan/pexus4_external_nist-pkits" />
     <project path="external/oauth" name="yuifan/pexus4_external_oauth" />
-	<project path="external/objenesis" name="yuifan/pexus4_external_objenesis" />
-	<project path="external/okhttp" name="yuifan/pexus4_external_okhttp" />
-	<project path="external/opencv" name="yuifan/pexus4_external_opencv" />
-	<project path="external/openfst" name="yuifan/pexus4_external_openfst" />
-	<project path="external/openssh" name="yuifan/pexus4_external_openssh" />
+    <project path="external/objenesis" name="yuifan/pexus4_external_objenesis" />
+    <project path="external/okhttp" name="yuifan/pexus4_external_okhttp" />
+    <project path="external/opencv" name="yuifan/pexus4_external_opencv" />
+    <project path="external/openfst" name="yuifan/pexus4_external_openfst" />
+    <project path="external/openssh" name="yuifan/pexus4_external_openssh" />
     <project path="external/openssl" name="yuifan/pexus4_external_openssl" />
     <project path="external/oprofile" name="yuifan/pexus4_external_oprofile" />
     <project path="external/ping" name="yuifan/pexus4_external_ping" />
-	<project path="external/ping6" name="yuifan/pexus4_external_ping6" />
+    <project path="external/ping6" name="yuifan/pexus4_external_ping6" />
     <project path="external/ppp" name="yuifan/pexus4_external_ppp" />
     <project path="external/proguard" name="yuifan/pexus4_external_proguard" />
     <project path="external/protobuf" name="yuifan/pexus4_external_protobuf" />
     <project path="external/qemu" name="yuifan/pexus4_external_qemu" />
-	<project path="external/qemu-pc-bios" name="yuifan/pexus4_external_qemu-pc-bios" />
+    <project path="external/qemu-pc-bios" name="yuifan/pexus4_external_qemu-pc-bios" />
     <project path="external/quake" name="yuifan/pexus4_external_quake" />
-	<project path="external/regex-re2" name="yuifan/pexus4_external_regex-re2" />
-	<project path="external/replicaisland" name="yuifan/pexus4_external_replicaisland" />
+    <project path="external/regex-re2" name="yuifan/pexus4_external_regex-re2" />
+    <project path="external/replicaisland" name="yuifan/pexus4_external_replicaisland" />
     <project path="external/safe-iop" name="yuifan/pexus4_external_safe-iop" />
     <project path="external/skia" name="yuifan/pexus4_external_skia" />
-	<project path="external/smali" name="yuifan/pexus4_external_smali" />
+    <project path="external/smali" name="yuifan/pexus4_external_smali" />
     <project path="external/sonivox" name="yuifan/pexus4_external_sonivox" />
     <project path="external/speex" name="yuifan/pexus4_external_speex" />
     <project path="external/sqlite" name="yuifan/pexus4_external_sqlite" />
     <project path="external/srec" name="yuifan/pexus4_external_srec" />
+    <project path="external/srtp" name="yuifan/pexus4_external_srtp" />
     <project path="external/stlport" name="yuifan/pexus4_external_stlport" />
     <project path="external/strace" name="yuifan/pexus4_external_strace" />
-	<project path="external/stressapptest" name="yuifan/pexus4_external_stressapptest" />
+    <project path="external/stressapptest" name="yuifan/pexus4_external_stressapptest" />
     <project path="external/svox" name="yuifan/pexus4_external_svox" />
     <project path="external/tagsoup" name="yuifan/pexus4_external_tagsoup" />
     <project path="external/tcpdump" name="yuifan/pexus4_external_tcpdump" />
-	<project path="external/tinyalsa" name="yuifan/pexus4_external_tinyalsa" />
+    <project path="external/tinyalsa" name="yuifan/pexus4_external_tinyalsa" />
     <project path="external/tinyxml" name="yuifan/pexus4_external_tinyxml" />
-	<project path="external/tinyxml2" name="yuifan/pexus4_external_tinyxml2" />
+    <project path="external/tinyxml2" name="yuifan/pexus4_external_tinyxml2" />
     <project path="external/tremolo" name="yuifan/pexus4_external_tremolo" />
     <project path="external/v8" name="yuifan/pexus4_external_v8" />
-	<project path="external/valgrind" name="yuifan/pexus4_external_valgrind" />
+    <project path="external/valgrind" name="yuifan/pexus4_external_valgrind" />
     <project path="external/webkit" name="yuifan/pexus4_external_webkit" />
-	<project path="external/webp" name="yuifan/pexus4_external_webp" />
-	<project path="external/webrtc" name="yuifan/pexus4_external_webrtc" />
+    <project path="external/webp" name="yuifan/pexus4_external_webp" />
+    <project path="external/webrtc" name="yuifan/pexus4_external_webrtc" />
     <project path="external/wpa_supplicant" name="yuifan/pexus4_external_wpa_supplicant" />
     <project path="external/wpa_supplicant_6" name="yuifan/pexus4_external_wpa_supplicant_6" />
-	<project path="external/wpa_supplicant_8" name="yuifan/pexus4_external_wpa_supplicant_8" />
+    <project path="external/wpa_supplicant_8" name="yuifan/pexus4_external_wpa_supplicant_8" />
     <project path="external/xmlwriter" name="yuifan/pexus4_external_xmlwriter" />
-	<project path="external/xmp_toolkit" name="yuifan/pexus4_external_xmp_toolkit" />
+    <project path="external/xmp_toolkit" name="yuifan/pexus4_external_xmp_toolkit" />
     <project path="external/yaffs2" name="yuifan/pexus4_external_yaffs2" />
     <project path="external/zlib" name="yuifan/pexus4_external_zlib" />
-	<project path="external/zxing" name="yuifan/pexus4_external_zxing" />
-	<project path="frameworks/av" name="yuifan/pexus4_frameworks_av" />
+    <project path="external/zxing" name="yuifan/pexus4_external_zxing" />
+    <project path="frameworks/av" name="yuifan/pexus4_frameworks_av" />
     <project path="frameworks/base" name="yuifan/pexus4_frameworks_base" />
-	<project path="frameworks/compile/libbcc" name="yuifan/pexus4_frameworks_compile_libbcc" />
-	<project path="frameworks/compile/linkloader" name="yuifan/pexus4_frameworks_compile_linkloader" />
-	<project path="frameworks/compile/llvm-ndk-cc" name="yuifan/pexus4_frameworks_compile_llvm-ndk-cc" />
-	<project path="frameworks/compile/mclinker" name="yuifan/pexus4_frameworks_compile_mclinker" />
-	<project path="frameworks/compile/slang" name="yuifan/pexus4_frameworks_compile_slang" />
+    <project path="frameworks/compile/libbcc" name="yuifan/pexus4_frameworks_compile_libbcc" />
+    <project path="frameworks/compile/linkloader" name="yuifan/pexus4_frameworks_compile_linkloader" />
+    <project path="frameworks/compile/llvm-ndk-cc" name="yuifan/pexus4_frameworks_compile_llvm-ndk-cc" />
+    <project path="frameworks/compile/mclinker" name="yuifan/pexus4_frameworks_compile_mclinker" />
+    <project path="frameworks/compile/slang" name="yuifan/pexus4_frameworks_compile_slang" />
     <project path="frameworks/ex" name="yuifan/pexus4_frameworks_ex" />
-	<project path="frameworks/mff" name="yuifan/pexus4_frameworks_mff" />
-	<project path="frameworks/ml" name="yuifan/pexus4_frameworks_ml" />
-	<project path="frameworks/native" name="yuifan/pexus4_frameworks_native" />
-	<project path="frameworks/opt/calendar" name="yuifan/pexus4_frameworks_opt_calendar" />
-	<project path="frameworks/opt/carddav" name="yuifan/pexus4_frameworks_opt_carddav" />
+    <project path="frameworks/mff" name="yuifan/pexus4_frameworks_mff" />
+    <project path="frameworks/ml" name="yuifan/pexus4_frameworks_ml" />
+    <project path="frameworks/native" name="yuifan/pexus4_frameworks_native" />
+    <project path="frameworks/opt/calendar" name="yuifan/pexus4_frameworks_opt_calendar" />
+    <project path="frameworks/opt/carddav" name="yuifan/pexus4_frameworks_opt_carddav" />
     <project path="frameworks/opt/emoji" name="yuifan/pexus4_frameworks_opt_emoji" />
-	<project path="frameworks/opt/inputmethodcommon" name="yuifan/pexus4_frameworks_opt_inputmethodcommon" />
-	<project path="frameworks/opt/mailcommon" name="yuifan/pexus4_frameworks_opt_mailcommon" />
-	<project path="frameworks/opt/mms" name="yuifan/pexus4_frameworks_opt_mms" />
-	<project path="frameworks/opt/photoviewer" name="yuifan/pexus4_frameworks_opt_photoviewer" />
-	<project path="frameworks/opt/telephony" name="yuifan/pexus4_frameworks_opt_telephony" />
-	<project path="frameworks/opt/vcard" name="yuifan/pexus4_frameworks_opt_vcard" />
-	<project path="frameworks/rs" name="yuifan/pexus4_frameworks_rs" />
-	<project path="frameworks/support" name="yuifan/pexus4_frameworks_support" />
-	<project path="frameworks/testing" name="yuifan/pexus4_frameworks_testing" />
-	<project path="frameworks/volley" name="yuifan/pexus4_frameworks_volley" />
-	<project path="frameworks/wilhelm" name="yuifan/pexus4_frameworks_wilhelm" />
-	<project path="gdk" name="yuifan/pexus4_gdk" />
-	<project path="hardware/akm" name="yuifan/pexus4_hardware_akm" />
+    <project path="frameworks/opt/inputmethodcommon" name="yuifan/pexus4_frameworks_opt_inputmethodcommon" />
+    <project path="frameworks/opt/mailcommon" name="yuifan/pexus4_frameworks_opt_mailcommon" />
+    <project path="frameworks/opt/mms" name="yuifan/pexus4_frameworks_opt_mms" />
+    <project path="frameworks/opt/photoviewer" name="yuifan/pexus4_frameworks_opt_photoviewer" />
+    <project path="frameworks/opt/telephony" name="yuifan/pexus4_frameworks_opt_telephony" />
+    <project path="frameworks/opt/vcard" name="yuifan/pexus4_frameworks_opt_vcard" />
+    <project path="frameworks/rs" name="yuifan/pexus4_frameworks_rs" />
+    <project path="frameworks/support" name="yuifan/pexus4_frameworks_support" />
+    <project path="frameworks/testing" name="yuifan/pexus4_frameworks_testing" />
+    <project path="frameworks/volley" name="yuifan/pexus4_frameworks_volley" />
+    <project path="frameworks/wilhelm" name="yuifan/pexus4_frameworks_wilhelm" />
+    <project path="gdk" name="yuifan/pexus4_gdk" />
+    <project path="hardware/akm" name="yuifan/pexus4_hardware_akm" />
     <project path="hardware/broadcom/wlan" name="yuifan/pexus4_hardware_broadcom_wlan" />
-	<project path="hardware/invensense" name="yuifan/pexus4_hardware_invensense" />
+    <project path="hardware/invensense" name="yuifan/pexus4_hardware_invensense" />
     <project path="hardware/libhardware" name="yuifan/pexus4_hardware_libhardware" />
     <project path="hardware/libhardware_legacy" name="yuifan/pexus4_hardware_libhardware_legacy" />
     <project path="hardware/msm7k" name="yuifan/pexus4_hardware_msm7k" />
-	<project path="hardware/qcom/audio" name="yuifan/pexus4_hardware_qcom_audio" />
-	<project path="hardware/qcom/bt" name="yuifan/pexus4_hardware_qcom_bt" />
-	<project path="hardware/qcom/camera" name="yuifan/pexus4_hardware_qcom_camera" />
-	<project path="hardware/qcom/display" name="yuifan/pexus4_hardware_qcom_display" />
+    <project path="hardware/qcom/audio" name="yuifan/pexus4_hardware_qcom_audio" />
+    <project path="hardware/qcom/bt" name="yuifan/pexus4_hardware_qcom_bt" />
+    <project path="hardware/qcom/camera" name="yuifan/pexus4_hardware_qcom_camera" />
+    <project path="hardware/qcom/display" name="yuifan/pexus4_hardware_qcom_display" />
     <project path="hardware/qcom/gps" name="yuifan/pexus4_hardware_qcom_gps" />
-	<project path="hardware/qcom/keymaster" name="yuifan/pexus4_hardware_qcom_keymaster" />
+    <project path="hardware/qcom/keymaster" name="yuifan/pexus4_hardware_qcom_keymaster" />
     <project path="hardware/qcom/media" name="yuifan/pexus4_hardware_qcom_media" />
-	<project path="hardware/qcom/msm8960" name="yuifan/pexus4_hardware_qcom_msm8960" />
-	<project path="hardware/qcom/power" name="yuifan/pexus4_hardware_qcom_power" />
-	<project path="hardware/qcom/sensors" name="yuifan/pexus4_hardware_qcom_sensors" />
-	<project path="hardware/qcom/wlan" name="yuifan/pexus4_hardware_qcom_wlan" />
+    <project path="hardware/qcom/msm8960" name="yuifan/pexus4_hardware_qcom_msm8960" />
+    <project path="hardware/qcom/power" name="yuifan/pexus4_hardware_qcom_power" />
+    <project path="hardware/qcom/sensors" name="yuifan/pexus4_hardware_qcom_sensors" />
+    <project path="hardware/qcom/wlan" name="yuifan/pexus4_hardware_qcom_wlan" />
     <project path="hardware/ril" name="yuifan/pexus4_hardware_ril" />
-	<project path="hardware/samsung_slsi/exynos5" name="yuifan/pexus4_hardware_samsung_slsi_exynos5" />
+    <project path="hardware/samsung_slsi/exynos5" name="yuifan/pexus4_hardware_samsung_slsi_exynos5" />
     <project path="hardware/ti/omap3" name="yuifan/pexus4_hardware_ti_omap3" />
-	<project path="hardware/ti/omap4-aah" name="yuifan/pexus4_hardware_ti_omap4-aah" />
-	<project path="hardware/ti/omap4xxx" name="yuifan/pexus4_hardware_ti_omap4xxx" />
+    <project path="hardware/ti/omap4-aah" name="yuifan/pexus4_hardware_ti_omap4-aah" />
+    <project path="hardware/ti/omap4xxx" name="yuifan/pexus4_hardware_ti_omap4xxx" />
     <project path="hardware/ti/wlan" name="yuifan/pexus4_hardware_ti_wlan" />
-	<project path="hardware/ti/wpan" name="yuifan/pexus4_hardware_ti_wpan" />
+    <project path="hardware/ti/wpan" name="yuifan/pexus4_hardware_ti_wpan" />
     <project path="kernel" name="yuifan/pexus4_kernel" />
     <project path="libcore" name="yuifan/pexus4_libcore" />
     <project path="ndk" name="yuifan/pexus4_ndk" />
@@ -264,16 +266,16 @@
     <project path="packages/apps/Contacts" name="yuifan/pexus4_packages_apps_Contacts" />
     <project path="packages/apps/DeskClock" name="yuifan/pexus4_packages_apps_DeskClock" />
     <project path="packages/apps/Email" name="yuifan/pexus4_packages_apps_Email" />
-	<project path="packages/apps/Exchange" name="yuifan/pexus4_packages_apps_Exchange" />
+    <project path="packages/apps/Exchange" name="yuifan/pexus4_packages_apps_Exchange" />
     <project path="packages/apps/Gallery" name="yuifan/pexus4_packages_apps_Gallery" />
     <project path="packages/apps/Gallery2" name="yuifan/pexus4_packages_apps_Gallery2" />
     <project path="packages/apps/HTMLViewer" name="yuifan/pexus4_packages_apps_HTMLViewer" />
-	<project path="packages/apps/KeyChain" name="yuifan/pexus4_packages_apps_KeyChain" />
+    <project path="packages/apps/KeyChain" name="yuifan/pexus4_packages_apps_KeyChain" />
     <project path="packages/apps/Launcher2" name="yuifan/pexus4_packages_apps_Launcher2" />
-	<project path="packages/apps/LegacyCamera" name="yuifan/pexus4_packages_apps_LegacyCamera" />
+    <project path="packages/apps/LegacyCamera" name="yuifan/pexus4_packages_apps_LegacyCamera" />
     <project path="packages/apps/Mms" name="yuifan/pexus4_packages_apps_Mms" />
     <project path="packages/apps/Music" name="yuifan/pexus4_packages_apps_Music" />
-	<project path="packages/apps/MusicFX" name="yuifan/pexus4_packages_apps_MusicFX" />
+    <project path="packages/apps/MusicFX" name="yuifan/pexus4_packages_apps_MusicFX" />
     <project path="packages/apps/Nfc" name="yuifan/pexus4_packages_apps_Nfc" />
     <project path="packages/apps/PackageInstaller" name="yuifan/pexus4_packages_apps_PackageInstaller" />
     <project path="packages/apps/Phone" name="yuifan/pexus4_packages_apps_Phone" />
@@ -283,11 +285,11 @@
     <project path="packages/apps/Settings" name="yuifan/pexus4_packages_apps_Settings" />
     <project path="packages/apps/SmartCardService" name="yuifan/pexus4_packages_apps_SmartCardService" />
     <project path="packages/apps/SoundRecorder" name="yuifan/pexus4_packages_apps_SoundRecorder" />
-	<project path="packages/apps/SpareParts" name="yuifan/pexus4_packages_apps_SpareParts" />
+    <project path="packages/apps/SpareParts" name="yuifan/pexus4_packages_apps_SpareParts" />
     <project path="packages/apps/SpeechRecorder" name="yuifan/pexus4_packages_apps_SpeechRecorder" />
     <project path="packages/apps/Stk" name="yuifan/pexus4_packages_apps_Stk" />
     <project path="packages/apps/Tag" name="yuifan/pexus4_packages_apps_Tag" />
-	<project path="packages/apps/VideoEditor" name="yuifan/pexus4_packages_apps_VideoEditor" />
+    <project path="packages/apps/VideoEditor" name="yuifan/pexus4_packages_apps_VideoEditor" />
     <project path="packages/apps/VoiceDialer" name="yuifan/pexus4_packages_apps_VoiceDialer" />
     <project path="packages/experimental" name="yuifan/pexus4_packages_experimental" />
     <project path="packages/inputmethods/LatinIME" name="yuifan/pexus4_packages_inputmethods_LatinIME" />
@@ -299,62 +301,62 @@
     <project path="packages/providers/DownloadProvider" name="yuifan/pexus4_packages_providers_DownloadProvider" />
     <project path="packages/providers/DrmProvider" name="yuifan/pexus4_packages_providers_DrmProvider" />
     <project path="packages/providers/MediaProvider" name="yuifan/pexus4_packages_providers_MediaProvider" />
-	<project path="packages/providers/PartnerBookmarksProvider" name="yuifan/pexus4_packages_providers_PartnerBookmarksProvider" />
+    <project path="packages/providers/PartnerBookmarksProvider" name="yuifan/pexus4_packages_providers_PartnerBookmarksProvider" />
     <project path="packages/providers/TelephonyProvider" name="yuifan/pexus4_packages_providers_TelephonyProvider" />
     <project path="packages/providers/UserDictionaryProvider" name="yuifan/pexus4_packages_providers_UserDictionaryProvider" />
-	<project path="packages/screensavers/Basic" name="yuifan/pexus4_packages_screensavers_Basic" />
-	<project path="packages/screensavers/PhotoTable" name="yuifan/pexus4_packages_screensavers_PhotoTable" />
-	<project path="packages/screensavers/WebView" name="yuifan/pexus4_packages_screensavers_WebView" />
+    <project path="packages/screensavers/Basic" name="yuifan/pexus4_packages_screensavers_Basic" />
+    <project path="packages/screensavers/PhotoTable" name="yuifan/pexus4_packages_screensavers_PhotoTable" />
+    <project path="packages/screensavers/WebView" name="yuifan/pexus4_packages_screensavers_WebView" />
     <project path="packages/wallpapers/Basic" name="yuifan/pexus4_packages_wallpapers_Basic" />
-	<project path="packages/wallpapers/Galaxy4" name="yuifan/pexus4_packages_wallpapers_Galaxy4" />
-	<project path="packages/wallpapers/HoloSpiral" name="yuifan/pexus4_packages_wallpapers_HoloSpiral" />
+    <project path="packages/wallpapers/Galaxy4" name="yuifan/pexus4_packages_wallpapers_Galaxy4" />
+    <project path="packages/wallpapers/HoloSpiral" name="yuifan/pexus4_packages_wallpapers_HoloSpiral" />
     <project path="packages/wallpapers/LivePicker" name="yuifan/pexus4_packages_wallpapers_LivePicker" />
     <project path="packages/wallpapers/MagicSmoke" name="yuifan/pexus4_packages_wallpapers_MagicSmoke" />
     <project path="packages/wallpapers/MusicVisualization" name="yuifan/pexus4_packages_wallpapers_MusicVisualization" />
-	<project path="packages/wallpapers/NoiseField" name="yuifan/pexus4_packages_wallpapers_NoiseField" />
-	<project path="packages/wallpapers/PhaseBeam" name="yuifan/pexus4_packages_wallpapers_PhaseBeam" />
-	<project path="pdk" name="yuifan/pexus4_pdk" />
+    <project path="packages/wallpapers/NoiseField" name="yuifan/pexus4_packages_wallpapers_NoiseField" />
+    <project path="packages/wallpapers/PhaseBeam" name="yuifan/pexus4_packages_wallpapers_PhaseBeam" />
+    <project path="pdk" name="yuifan/pexus4_pdk" />
     <project path="prebuilts/clang/darwin-x86/3.1" name="yuifan/pexus4_prebuilts_clang_darwin-x86_3.1" />
-	<project path="prebuilts/clang/darwin-x86/3.2" name="yuifan/pexus4_prebuilts_clang_darwin-x86_3.2" />
-	<project path="prebuilts/clang/linux-x86/3.1" name="yuifan/pexus4_prebuilts_clang_linux-x86_3.1" />
-	<project path="prebuilts/clang/linux-x86/3.2" name="yuifan/pexus4_prebuilts_clang_linux-x86_3.2" />
-	<project path="prebuilts/eclipse" name="yuifan/pexus4_prebuilts_eclipse" />
-	<project path="prebuilts/devtools" name="yuifan/pexus4_prebuilts_devtools" />
-	<project path="prebuilts/eclipse-build-deps" name="yuifan/pexus4_prebuilts_eclipse-build-deps" />
-	<project path="prebuilts/eclipse-build-deps-sources" name="yuifan/pexus4_prebuilts_eclipse-build-deps-sources" />
-	<project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_arm_arm-eabi-4.6" />
-	<project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_arm_arm-eabi-4.7" />
-	<project path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_arm_arm-linux-androideabi-4.6" />
-	<project path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_arm_arm-linux-androideabi-4.7" />
-	<project path="prebuilts/gcc/darwin-x86/host/headers" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_host_headers" />
-	<project path="prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_host_i686-apple-darwin-4.2.1" />
-	<project path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_mips_mipsel-linux-android-4.6" />
-	<project path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_mips_mipsel-linux-android-4.7" />
-	<project path="prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_x86_i686-linux-android-4.6" />
-	<project path="prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_x86_i686-linux-android-4.7" />
-	<project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" name="yuifan/pexus4_prebuilts_gcc_linux-x86_arm_arm-eabi-4.6" />
-	<project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="yuifan/pexus4_prebuilts_gcc_linux-x86_arm_arm-eabi-4.7" />
-	<project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" name="yuifan/pexus4_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.6" />
-	<project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" name="yuifan/pexus4_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.7" />
-	<project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" name="yuifan/pexus4_prebuilts_gcc_linux-x86_host_i686-linux-glibc2.7-4.4.3" />
-	<project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" name="yuifan/pexus4_prebuilts_gcc_linux-x86_host_i686-linux-glibc2.7-4.6" />
-	<project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" name="yuifan/pexus4_prebuilts_gcc_linux-x86_host_x86_64-linux-glibc2.7-4.6" />
-	<project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" name="yuifan/pexus4_prebuilts_gcc_linux-x86_mips_mipsel-linux-android-4.6" />
-	<project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7" name="yuifan/pexus4_prebuilts_gcc_linux-x86_mips_mipsel-linux-android-4.7" />
-	<project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" name="yuifan/pexus4_prebuilts_gcc_linux-x86_x86_i686-linux-android-4.6" />
-	<project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7" name="yuifan/pexus4_prebuilts_gcc_linux-x86_x86_i686-linux-android-4.7" />
-	<project path="prebuilts/misc" name="yuifan/pexus4_prebuilts_misc" />
-	<project path="prebuilts/ndk" name="yuifan/pexus4_prebuilts_ndk" />
-	<project path="prebuilts/qemu-kernel" name="yuifan/pexus4_prebuilts_qemu-kernel" />
-	<project path="prebuilts/sdk" name="yuifan/pexus4_prebuilts_sdk" />
-	<project path="prebuilts/tools" name="yuifan/pexus4_prebuilts_tools" />
+    <project path="prebuilts/clang/darwin-x86/3.2" name="yuifan/pexus4_prebuilts_clang_darwin-x86_3.2" />
+    <project path="prebuilts/clang/linux-x86/3.1" name="yuifan/pexus4_prebuilts_clang_linux-x86_3.1" />
+    <project path="prebuilts/clang/linux-x86/3.2" name="yuifan/pexus4_prebuilts_clang_linux-x86_3.2" />
+    <project path="prebuilts/eclipse" name="yuifan/pexus4_prebuilts_eclipse" />
+    <project path="prebuilts/devtools" name="yuifan/pexus4_prebuilts_devtools" />
+    <project path="prebuilts/eclipse-build-deps" name="yuifan/pexus4_prebuilts_eclipse-build-deps" />
+    <project path="prebuilts/eclipse-build-deps-sources" name="yuifan/pexus4_prebuilts_eclipse-build-deps-sources" />
+    <project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_arm_arm-eabi-4.6" />
+    <project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_arm_arm-eabi-4.7" />
+    <project path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_arm_arm-linux-androideabi-4.6" />
+    <project path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_arm_arm-linux-androideabi-4.7" />
+    <project path="prebuilts/gcc/darwin-x86/host/headers" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_host_headers" />
+    <project path="prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_host_i686-apple-darwin-4.2.1" />
+    <project path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_mips_mipsel-linux-android-4.6" />
+    <project path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_mips_mipsel-linux-android-4.7" />
+    <project path="prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_x86_i686-linux-android-4.6" />
+    <project path="prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7" name="yuifan/pexus4_prebuilts_gcc_darwin-x86_x86_i686-linux-android-4.7" />
+    <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" name="yuifan/pexus4_prebuilts_gcc_linux-x86_arm_arm-eabi-4.6" />
+    <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="yuifan/pexus4_prebuilts_gcc_linux-x86_arm_arm-eabi-4.7" />
+    <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" name="yuifan/pexus4_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.6" />
+    <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" name="yuifan/pexus4_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.7" />
+    <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" name="yuifan/pexus4_prebuilts_gcc_linux-x86_host_i686-linux-glibc2.7-4.4.3" />
+    <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" name="yuifan/pexus4_prebuilts_gcc_linux-x86_host_i686-linux-glibc2.7-4.6" />
+    <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" name="yuifan/pexus4_prebuilts_gcc_linux-x86_host_x86_64-linux-glibc2.7-4.6" />
+    <project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" name="yuifan/pexus4_prebuilts_gcc_linux-x86_mips_mipsel-linux-android-4.6" />
+    <project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7" name="yuifan/pexus4_prebuilts_gcc_linux-x86_mips_mipsel-linux-android-4.7" />
+    <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" name="yuifan/pexus4_prebuilts_gcc_linux-x86_x86_i686-linux-android-4.6" />
+    <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7" name="yuifan/pexus4_prebuilts_gcc_linux-x86_x86_i686-linux-android-4.7" />
+    <project path="prebuilts/misc" name="yuifan/pexus4_prebuilts_misc" />
+    <project path="prebuilts/ndk" name="yuifan/pexus4_prebuilts_ndk" />
+    <project path="prebuilts/qemu-kernel" name="yuifan/pexus4_prebuilts_qemu-kernel" />
+    <project path="prebuilts/sdk" name="yuifan/pexus4_prebuilts_sdk" />
+    <project path="prebuilts/tools" name="yuifan/pexus4_prebuilts_tools" />
     <project path="sdk" name="yuifan/pexus4_sdk" />
     <project path="system/bluetooth" name="yuifan/pexus4_system_bluetooth" />
     <project path="system/core" name="yuifan/pexus4_system_core" />
     <project path="system/extras" name="yuifan/pexus4_system_extras" />
     <project path="system/media" name="yuifan/pexus4_system_media" />
     <project path="system/netd" name="yuifan/pexus4_system_netd" />
-	<project path="system/security" name="yuifan/pexus4_system_security" />
+    <project path="system/security" name="yuifan/pexus4_system_security" />
     <!-- <project path="system/vold" name="yuifan/pexus4_system_vold" />
     <project path="tools/adt/eclipse" name="yuifan/pexus4_tools_adt_eclipse" />
     <project path="tools/base" name="yuifan/pexus4_tools_base" />
