@@ -194,7 +194,6 @@
     <project path="external/webkit" name="yuifan/pexus4_external_webkit" />
     <project path="external/webp" name="yuifan/pexus4_external_webp" />
     <project path="external/webrtc" name="yuifan/pexus4_external_webrtc" />
-    <project path="external/wpa_supplicant" name="yuifan/pexus4_external_wpa_supplicant" />
     <project path="external/wpa_supplicant_6" name="yuifan/pexus4_external_wpa_supplicant_6" />
     <project path="external/wpa_supplicant_8" name="yuifan/pexus4_external_wpa_supplicant_8" />
     <project path="external/xmlwriter" name="yuifan/pexus4_external_xmlwriter" />
